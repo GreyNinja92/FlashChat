@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815207003351",
+    "firebase_url": "https://flash-chat-e6af5.firebaseio.com",
+    "project_id": "flash-chat-e6af5",
+    "storage_bucket": "flash-chat-e6af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815207003351:android:f005cea863c9297237ac92",
+        "android_client_info": {
+          "package_name": "co.SakshamKhatod.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815207003351-cj8val89hc3dsp55bgmr2tvtuetvlgsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJK8jTf7PoI5tllnIrErVMPPUT1S7TeEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815207003351-cj8val89hc3dsp55bgmr2tvtuetvlgsq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815207003351-1atpim3g6098pldbqn94v7jlgufeoqse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.KhatodSaksham.Flash-Chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
